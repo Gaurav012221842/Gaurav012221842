@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav94" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yadavgaurav00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yadavgaurav00/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yadavgaurav00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yadavgaurav00/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ingineargaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ingineargaurav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@gaurav94174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gaurav94174" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_leetcode6203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_leetcode6203" height="30" width="40" /></a>
